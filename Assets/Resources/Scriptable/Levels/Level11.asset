@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6521f8f6bc2851f449d757d48056dd76, type: 3}
+  m_Name: Level11
+  m_EditorClassIdentifier: 
+  waveNumber:
+  - {fileID: 11400000, guid: 715695b81d9428045928c385d8c4b371, type: 2}
+  - {fileID: 11400000, guid: 2d1402d98a9dc264faf982894ff11f6c, type: 2}
+  - {fileID: 11400000, guid: 377d1f651266e2e47a81f06d3b1dd682, type: 2}
+  - {fileID: 11400000, guid: 26b37d3c57f686b49a63f60c94f1138f, type: 2}
+  civilians: 25
+  boss: {fileID: 0}
